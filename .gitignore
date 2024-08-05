@@ -1,0 +1,5 @@
+# Ignore venv folder
+quote_generator_env
+
+# Ignore .env file
+.env
